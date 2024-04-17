@@ -13,7 +13,7 @@
 
 :small_blue_diamond: para el resposive desing en esta ocasion el Flexbox y CSS Grid fueron muy eficientes para desarrollar el proyecto, pero aun asi y debido a  que no todos los estilos se ajustaban a todas las pantallas de los dispositivos tuve que recurrir a la vieja confiable y terminar de ajustar aquellos estilos que no se ajustaban con media querys.
 
-![Pantallazo Portafolio](https://raw.githubusercontent.com/Danielo27/Portafolio-Alura-Challenge-Oracle-Next-Education-/main/test.png)
+![Pantallazo Portafolio](/test.png)
 
 ### Carlos Hidalgo
 #### #challengeoneG6portafolio
