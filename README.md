@@ -1,4 +1,4 @@
-![Insignia-Alura](/Badge-Portfólio.png)
+![Insignia-Alura](/Badge-Portfólio.png) alt="insignia alura" type="image/png" width=70 height=70 /
 
 ### Portafolio de Presentacion Proyectos Alura - Programa One de Oracle Next Education
 
