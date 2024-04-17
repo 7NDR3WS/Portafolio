@@ -1,10 +1,8 @@
-# <img src="https://raw.githubusercontent.com/Danielo27/Portafolio-Alura-Challenge-Oracle-Next-Education-/main/assets/img/cms_files_10224_1645571154Insignia_3.png" alt="insignia alura" type="image/png" width=70 height=70 />Portafolio-Alura-Challenge-Oracle-Next-Education-
-
 ### Portafolio de Presentacion Proyectos Alura - Programa One de Oracle Next Education
 
 ## [Demo]()
 
-## :wave: Saludo Cordial A Todos
+## :wave: Hola a todos!
 
 :flushed: Como siempre si tienen alguna duda o sugerenicia pueden escribirme para mejorar este proyecto.
 
